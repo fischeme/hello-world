@@ -1,3 +1,3 @@
 # hello-world
-Hello Wold
-Hello
+Hello World
+Hello There!
